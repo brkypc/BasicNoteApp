@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Challenge2</string>
+    <string name="my_notes">Notlarım</string>
+    <string name="edit_note">Not Düzenleme</string>
+    <string name="add_note">Not Ekleme</string>
+    <string name="not">Not</string>
+    <string name="title">Başlık</string>
+    <string name="no_notes">Hiç notunuz yok.</string>
+    <string name="delete_confirm">Bu notu gerçekten silmek istiyor musunuz?</string>
+    <string name="cancel">İptal</string>
+    <string name="saved_to_notes">Notlara kaydedildi</string>
+    <string name="fields_cannot_be_empty">Alanlar boş bırakılamaz!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
